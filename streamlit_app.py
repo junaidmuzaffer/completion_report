@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-from fpdf import FPDF
 
 # 1. Upload File
 st.title("Sugar Mill Roller Completion Report Generator")
