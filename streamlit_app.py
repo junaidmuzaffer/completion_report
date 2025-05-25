@@ -1,6 +1,4 @@
-!pip install streamlit
 import pandas as pd
-!pip install python-docx
 from docx import Document
 import streamlit as st
 
